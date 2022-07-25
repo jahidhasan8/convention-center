@@ -1,0 +1,11 @@
+/* .toast-start {
+    position: relative;
+} */
+
+.toast-preview {
+    position: absolute;
+    right: 0;
+     top: 58vw; 
+     margin-right: 20vh;
+    /* top: 30%; */
+}
