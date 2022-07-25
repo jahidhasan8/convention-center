@@ -4,8 +4,11 @@
 
 .toast-preview {
     position: absolute;
-    right: 0;
+     right: 0;
      top: 58vw; 
-     margin-right: 20vh;
+     /* margin-right: 20vh; */
     /* top: 30%; */
+}
+.item{
+    list-style: none;
 }
